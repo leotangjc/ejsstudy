@@ -9,9 +9,6 @@ app.get("/",routes.index);
 app.listen(3002)
 
 
-//未完成
-
-
 
 
 
